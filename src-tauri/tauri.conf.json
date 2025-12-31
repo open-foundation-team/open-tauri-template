@@ -14,7 +14,7 @@
     "windows": [
       {
         "title": "open-tauri-template",
-        "width": 600,
+        "width": 500,
         "height": 900,
         "resizable": false,
         "fullscreen": false
