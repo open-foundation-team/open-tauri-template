@@ -2303,7 +2303,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "opentauri-template"
+name = "open-tauri-template"
 version = "0.1.0"
 dependencies = [
  "serde",
